@@ -1,0 +1,13 @@
+.item{
+	width: 25%;
+	height: 300px;
+	float: left;
+	margin-left: 20px;
+	border: 1px solid black
+}
+.img{
+	    width: 200px;
+    height: 245px;
+    margin-left: 38px;
+    margin-top: 26px;
+}
